@@ -20,6 +20,11 @@ DOVE加速器提供丰富的节点选择，主要包括美国、香港、台湾�
 
 客服24小时在线，可免费注册试用梯子科学上网，解锁ChatGPT，Youtue，facebook，,推特（X），网飞（netflix)，Disney+，TikTo等流媒体不卡顿4K观看。
 
+### DOVE加速器教程介绍：
+
+![2024-07-15 09 42 07](https://github.com/user-attachments/assets/d672e6b0-0df2-4b22-8433-a623afc21b44)
+
+
 二：FastLink
 
 FastLink是一款高速且稳定的SSR/V2Ray机场，拥有非常长的稳定运营时间，其稳定性得到了很多人的一致赞美。
